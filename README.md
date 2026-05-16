@@ -645,20 +645,6 @@ notebook.ipynb
 
 ---
 
-# Submission Guidelines
-
-* Submit only the public GitHub repository link
-* No ZIP files
-* No PDF files
-* No screenshots
-* Repository must be public
-* Repository must contain:
-
-  * Complete README
-  * Executable notebook/code
-  * Required project files
-
----
 
 # Conclusion
 
